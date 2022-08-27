@@ -1,2 +1,2 @@
-# SeleniumProject
+# Mavenproject
 Selenium project for practice
